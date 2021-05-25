@@ -1,2 +1,2 @@
 # github-tutorial
-A GitHub tutorial made for the Viginia Tech
+A GitHub tutorial made for the VT-DSPG program
